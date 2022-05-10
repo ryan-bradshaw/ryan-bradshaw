@@ -21,7 +21,15 @@
                 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
                 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
                 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+                <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+                <!-- add badge for solidity -->
             <h4>Frameworks & Libraries</h4>
+                <img src="https://img.shields.io/badge/-React-212121?style=for-the-badge&logo=react"/>
+                <!-- add badge for wordpress -->
+                <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
+                <img src="https://img.shields.io/badge/-Express-22AE5A?style=for-the-badge&logo=express"/>
+                <img src="https://img.shields.io/badge/-Nodejs-white?style=for-the-badge&logo=Node.js"/>
+                <!-- add badge for axios? -->
             <h4>Databases</h4>
             <h4>Other Tools</h4>
             <p>
