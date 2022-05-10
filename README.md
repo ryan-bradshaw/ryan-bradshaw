@@ -5,9 +5,11 @@
     <div class="info-badges">
         <hr>
         <h4 align="center">Recent Activity & Stats</h4>
-        <img src="https://badges.pufler.dev/repos/ryan-bradshaw"/>
-        <img src="https://badges.pufler.dev/commits/monthly/ryan-bradshaw"/>
-        <img src="https://badges.pufler.dev/visits/ryan-bradshaw/ryan-bradshaw"/>
+        <div align="center">
+            <img src="https://badges.pufler.dev/repos/ryan-bradshaw"/>
+            <img src="https://badges.pufler.dev/commits/monthly/ryan-bradshaw"/>
+            <img src="https://badges.pufler.dev/visits/ryan-bradshaw/ryan-bradshaw"/>
+        </div>
     </div>
     <div class="main">
         <div class="bio">
