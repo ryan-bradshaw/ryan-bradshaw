@@ -21,7 +21,7 @@
                 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
                 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
                 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-                <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
+                <!-- <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/> -->
                 <!-- <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/>-->
             <h4>Frameworks & Libraries: </h4>
                 <img src="https://img.shields.io/badge/-Nodejs-white?style=for-the-badge&logo=Node.js"/>
@@ -47,5 +47,9 @@
         </div>
     </div>
     <div class="github-stats">
+        <p align="center">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryan-bradshaw&show_icons=true&theme=material-palenight&line_height=27">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-bradshaw&theme=material-palenight&hide=html,css">
+        </p>
     </div>
 </div>
