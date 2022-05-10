@@ -2,7 +2,8 @@
     <img src="banner-image-header.jpg" border=0 width="800" align="center">
 </div>
 <div class="info-badges">
-    <badge>
+   <img src="https://badges.pufler.dev/visits/ryan-bradshaw/ryan-bradshaw"/>
+
 </div>
 <div class="main flex">
     <div class="bio">
