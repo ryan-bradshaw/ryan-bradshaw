@@ -14,7 +14,7 @@
     <div class="main">
         <div class="technologies">
             <h2>I have experience in the following...</h2>
-            <h4>Languages</h4>
+            <h4>Languages: </h4>
                 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
                 <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
                 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
@@ -23,7 +23,7 @@
                 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
                 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
                 <!-- <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/>-->
-            <h4>Frameworks & Libraries</h4>
+            <h4>Frameworks & Libraries: </h4>
                 <img src="https://img.shields.io/badge/-Nodejs-white?style=for-the-badge&logo=Node.js"/>
                 <img src="https://img.shields.io/badge/-React-212121?style=for-the-badge&logo=react"/>
                 <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
@@ -32,10 +32,10 @@
                 <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
                 <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white"/>
                 <!-- add badge for axios? -->
-            <h4>Databases</h4>
+            <h4>Databases: </h4>
                 <img src="https://img.shields.io/badge/-MySQL-DD8A00?style=for-the-badge&logo=mysql"/>
                 <img src="https://img.shields.io/badge/-MongoDB-FFF?style=for-the-badge&logo=mongodb"/>
-            <h4>Other Tools</h4>
+            <h4>Other Tools: </h4>
                 <img src="https://img.shields.io/badge/-Spring-166E3A?style=for-the-badge&logo=spring"/>
                 <img src="https://img.shields.io/badge/-VSCode-282A36?style=for-the-badge&logo=visualstudiocode"/>
                 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
