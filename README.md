@@ -3,8 +3,8 @@
 </div>
 <div class="info-badges">
     <hr>
-    <img src="https://badges.pufler.dev/repos/ryan-bradshaw/ryan-bradshaw"/>
-    <img src="https://badges.pufler.dev/commits/ryan-bradshaw/ryan-bradshaw"/>
+    <img src="https://badges.pufler.dev/repos/ryan-bradshaw"/>
+    <img src="https://badges.pufler.dev/commits/monthly/ryan-bradshaw"/>
     <img src="https://badges.pufler.dev/visits/ryan-bradshaw/ryan-bradshaw"/>
     <hr>
 
