@@ -12,10 +12,15 @@
         </div>
     </div>
     <div class="main">
-        <div class="bio">
-        <>
-        </div>
         <div class="technologies">
+            <h2>Technologies</h2>
+            <h4>Languages</h4>
+            <h4>Frameworks & Libraries</h4>
+            <h4>Databases</h4>
+            <h4>Other Tools</h4>
+            <p>
+        </div>
+        <div class="bio">
         </div>
     </div>
     <div class="github-stats">
