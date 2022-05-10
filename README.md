@@ -24,9 +24,9 @@
                 <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" />
                 <!-- add badge for solidity -->
             <h4>Frameworks & Libraries</h4>
-                <!-- add badge for wordpress -->
                 <img src="https://img.shields.io/badge/-Nodejs-white?style=for-the-badge&logo=Node.js"/>
                 <img src="https://img.shields.io/badge/-React-212121?style=for-the-badge&logo=react"/>
+                <img src="https://img.shields.io/badge/Wordpress-21759B?style=for-the-badge&logo=wordpress&logoColor=white"/>
                 <img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=for-the-badge&logo=bootstrap"/>
                 <img src="https://img.shields.io/badge/-Express-22AE5A?style=for-the-badge&logo=express"/>
                 <!-- add badge for axios? -->
