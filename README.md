@@ -36,9 +36,9 @@
                 <img src="https://img.shields.io/badge/-MySQL-DD8A00?style=for-the-badge&logo=mysql"/>
                 <img src="https://img.shields.io/badge/-MongoDB-FFF?style=for-the-badge&logo=mongodb"/>
             <h4>Other Tools</h4>
+                <img src="https://img.shields.io/badge/-Spring-166E3A?style=for-the-badge&logo=spring"/>
                 <img src="https://img.shields.io/badge/-VSCode-282A36?style=for-the-badge&logo=visualstudiocode"/>
                 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white"/>
-                <img src="https://img.shields.io/badge/-Spring-166E3A?style=for-the-badge&logo=spring"/>
                 <img src="https://img.shields.io/badge/-Trello-095ED9?style=for-the-badge&logo=trello"/>
                 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
         </div>
