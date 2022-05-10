@@ -1,5 +1,5 @@
 <div class="head-banner">
-    <img src="maxwell-nelson-taiuG8CPKAQ-unsplash.jpg" border=0 width="800" align="center">
+    <img src="maxwell-nelson-taiuG8CPKAQ-unsplash.jpg" border=0 width="820" align="center">
 </div>
 <div class="info-badges">
     <badge>
