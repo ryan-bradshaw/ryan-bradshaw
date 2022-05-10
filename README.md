@@ -1,5 +1,5 @@
 <div class="head-banner">
-    <img src="banner-image.jpg" border=0 width="800" align="center">
+    <img src="banner-image-header.jpg" border=0 width="800" align="center">
 </div>
 <div class="info-badges">
     <badge>
