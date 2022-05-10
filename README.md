@@ -1,6 +1,15 @@
-<div align="left">
-
-<img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif">
-
-
+<div class="head-banner">
+    <img src="maxwell-nelson-taiuG8CPKAQ-unsplash.jpg" border=0 width="800" align="center">
 </div>
+<div class="info-badges">
+    <badge>
+</div>
+<div class="main flex">
+    <div class="bio">
+    </div>
+    <div class="technologies">
+    </div>
+</div>
+<div class="github-stats flex">
+</div>
+
