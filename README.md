@@ -21,7 +21,7 @@
                 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
                 <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
                 <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-                <!-- <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/> -->
+                <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white"/>
                 <!-- <img src="https://img.shields.io/badge/Solidity-e6e6e6?style=for-the-badge&logo=solidity&logoColor=black"/>-->
             <h4>Frameworks & Libraries: </h4>
                 <img src="https://img.shields.io/badge/-Nodejs-white?style=for-the-badge&logo=Node.js"/>
@@ -47,8 +47,18 @@
         <div class="bio">
             <h2>My story: </h2>
             <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus mattis molestie a iaculis at. Duis ut diam quam nulla porttitor massa id. Lectus sit amet est placerat in egestas. Ipsum a arcu cursus vitae congue. Eros donec ac odio tempor orci dapibus ultrices in iaculis. Adipiscing diam donec adipiscing tristique risus nec feugiat in. Justo laoreet sit amet cursus sit amet dictum sit. Diam quis enim lobortis scelerisque fermentum dui. Quam viverra orci sagittis eu volutpat odio facilisis mauris sit. Sed ullamcorper morbi tincidunt ornare massa eget egestas purus viverra. Commodo odio aenean sed adipiscing diam donec adipiscing. Ipsum consequat nisl vel pretium lectus quam id. Et egestas quis ipsum suspendisse ultrices gravida dictum. Orci ac auctor augue mauris augue neque gravida. Ultricies leo integer malesuada nunc vel.
-            Bibendum enim facilisis gravida neque convallis. Dolor sit amet consectetur adipiscing elit pellentesque. Vitae tortor condimentum lacinia quis vel eros donec ac odio. Dolor morbi non arcu risus quis varius. Convallis a cras semper auctor neque vitae. At risus viverra adipiscing at in tellus. Vel quam elementum pulvinar etiam non quam lacus. Nec ultrices dui sapien eget mi proin sed libero enim. Id nibh tortor id aliquet lectus proin. Facilisis volutpat est velit egestas dui. Neque aliquam vestibulum morbi blandit. Pellentesque elit eget gravida cum. Nibh venenatis cras sed felis eget velit aliquet sagittis. Nisi est sit amet facilisis magna etiam tempor orci. Nunc pulvinar sapien et ligula. Cum sociis natoque penatibus et magnis dis.
+            I love learning how things work. It's why I started my career in financial services, where I could learn how markets and financial systems operate in both macro(global scale) and micro(personal) ways. Despite being a successful advisor, however, I could see the writing on the wall: tech is taking over. As the traditional role of the advisor as a financial planner and portfolio builder was increasingly automated by software, I began to wonder how those systems worked. How were they engineered? As I began to self-study basic web development (HTML, CSS, vanilla JavaScript, at first), I realized that this was my passion. Time to dive in. So I enrolled in a full-stack bootcamp to make coding my career. 
+            </p>
+            <p>
+            Since graduating from Coding Dojo's Full-Time Full-Stack Software Development program in April 2022, I've continued to deepen the skills I learned there, as well as study new concepts. 
+            </p>
+            <p>
+            Right now I'm studying & developing skills in:
+                <ul>
+                    <li>Wordpress & PHP</li>
+                    <li>Algorithms & data structures</li>
+                    <li>Blockchain development through Rust on the Solana blockchain</li>
+                </ul>
             </p>
         </div>
     </div>
