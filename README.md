@@ -46,6 +46,7 @@
         <div class="bio">
         </div>
     </div>
+    <hr>
     <div class="github-stats">
         <p align="center">
         <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryan-bradshaw&show_icons=true&theme=algolia&line_height=33">
