@@ -48,8 +48,8 @@
     </div>
     <div class="github-stats">
         <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryan-bradshaw&show_icons=true&theme=material-palenight&line_height=27">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-bradshaw&theme=material-palenight&hide=html,css">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryan-bradshaw&show_icons=true&theme=algolia">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-bradshaw&theme=algolia&hide=html,css">
         </p>
     </div>
 </div>
