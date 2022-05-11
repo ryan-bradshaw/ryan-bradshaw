@@ -48,7 +48,7 @@
     </div>
     <div class="github-stats">
         <p align="center">
-        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryan-bradshaw&show_icons=true&theme=algolia&line_height=34">
+        <img align="center" src="https://github-readme-stats.vercel.app/api?username=ryan-bradshaw&show_icons=true&theme=algolia&line_height=33">
         <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryan-bradshaw&theme=algolia&hide=html,css&line_height=40">
         </p>
     </div>
