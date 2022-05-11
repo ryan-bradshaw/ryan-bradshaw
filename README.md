@@ -43,6 +43,7 @@
                 <img src="https://img.shields.io/badge/-Trello-095ED9?style=for-the-badge&logo=trello"/>
                 <img src="https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black"/>
         </div>
+        <hr>
         <div class="bio">
             <p>
             Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Cursus mattis molestie a iaculis at. Duis ut diam quam nulla porttitor massa id. Lectus sit amet est placerat in egestas. Ipsum a arcu cursus vitae congue. Eros donec ac odio tempor orci dapibus ultrices in iaculis. Adipiscing diam donec adipiscing tristique risus nec feugiat in. Justo laoreet sit amet cursus sit amet dictum sit. Diam quis enim lobortis scelerisque fermentum dui. Quam viverra orci sagittis eu volutpat odio facilisis mauris sit. Sed ullamcorper morbi tincidunt ornare massa eget egestas purus viverra. Commodo odio aenean sed adipiscing diam donec adipiscing. Ipsum consequat nisl vel pretium lectus quam id. Et egestas quis ipsum suspendisse ultrices gravida dictum. Orci ac auctor augue mauris augue neque gravida. Ultricies leo integer malesuada nunc vel.
