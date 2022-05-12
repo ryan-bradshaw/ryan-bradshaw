@@ -52,7 +52,7 @@
         <div class="bio">
             <h2>My story: </h2>
             <p>
-            I love learning how things work. It's why I started my career in financial services, where I could learn how markets and financial systems operate in both macro(global) and micro(personal) ways. Despite being a successful advisor, however, I could see the writing on the wall: tech is taking over. As the traditional role of the advisor as a financial planner and portfolio builder was increasingly automated by software, I began to wonder how those systems worked. How were they engineered? As I began to self-study basic web development (HTML, CSS, vanilla JavaScript, at first), I realized that this was my passion. Time to dive in. So I enrolled in a full-stack bootcamp to make coding my career. 
+            I love learning how things work. It's why I started my career in financial services, where I could learn how markets and financial systems operate and affect us all in both global and personal ways. Despite being a successful advisor, however, I could see the writing on the wall: tech is taking over. As the traditional role of the advisor as a financial planner and portfolio builder was increasingly automated by software, I began to wonder how those systems worked. How were they engineered? As I began to self-study basic web development (HTML, CSS, vanilla JavaScript, at first), I realized that this was my passion. Time to dive in. So I enrolled in a full-stack bootcamp to make coding my career. 
             </p>
             <p>
             Since graduating from Coding Dojo's Full-Time Full-Stack Software Development program in April 2022, I've continued to deepen the skills I learned there, as well as study new concepts. 
