@@ -62,7 +62,7 @@
                 <ul>
                     <li>Wordpress & PHP</li>
                     <li>Algorithms & data structures</li>
-                    <li>Blockchain development through Rust on the Solana blockchain</li>
+                    <li>Blockchain development in Rust on the Solana blockchain</li>
                 </ul>
             </p>
         </div>
