@@ -10,6 +10,11 @@
             <img src="https://badges.pufler.dev/commits/monthly/ryan-bradshaw"/>
             <img src="https://badges.pufler.dev/visits/ryan-bradshaw/ryan-bradshaw"/>
         </div>
+        <div>
+            <p>
+                <h4><a href="https://www.linkedin.com/in/ryanjbradshaw/">Connect with me on LinkedIn</a</h4>
+            </p>
+        </div>
     </div>
     <div class="main">
         <div class="technologies">
