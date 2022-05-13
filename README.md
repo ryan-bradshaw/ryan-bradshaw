@@ -12,7 +12,7 @@
         </div>
         <div>
             <p>
-                <h4><a href="https://www.linkedin.com/in/ryanjbradshaw/">Connect with me on <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a</h4>
+                <h4><a href="https://www.linkedin.com/in/ryanjbradshaw/">Connect with me on LinkedIn</a</h4>
             </p>
         </div>
     </div>
