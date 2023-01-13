@@ -1,15 +1,9 @@
 <div class="big-container" style="font-family: 'Helvetica'">
     <div class="info-badges">
         <hr>
-        <h4 align="center">Recent Activity & Stats</h4>
-        <div align="center">
-            <img src="https://badges.pufler.dev/repos/ryan-bradshaw"/>
-            <img src="https://badges.pufler.dev/commits/monthly/ryan-bradshaw"/>
-            <img src="https://badges.pufler.dev/visits/ryan-bradshaw/ryan-bradshaw"/>
-        </div>
         <div>
             <p>
-                <h4><a href="https://www.linkedin.com/in/ryanjbradshaw/">Connect with me on LinkedIn</a</h4>
+                <h2><a href="https://www.linkedin.com/in/ryanjbradshaw/">Connect with me on LinkedIn</a</h2>
             </p>
         </div>
     </div>
