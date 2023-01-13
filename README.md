@@ -69,9 +69,8 @@
             <p>
             Right now I'm studying & developing skills in:
                 <ul>
-                    <li>Wordpress & PHP</li>
-                    <li>Algorithms & data structures</li>
-                    <li>Blockchain development in Rust on the Solana blockchain</li>
+                    <li>React</li>
+                    <li>Web3 & Blockchain development in Rust</li>
                 </ul>
             </p>
         </div>
