@@ -1,7 +1,4 @@
 <div class="big-container" style="font-family: 'Helvetica'">
-    <div class="head-banner">
-        <img src="banner-image-header.jpg" border=0 width="800" align="center">
-    </div>
     <div class="info-badges">
         <hr>
         <h4 align="center">Recent Activity & Stats</h4>
